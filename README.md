@@ -26,8 +26,9 @@ RegisterNumber:24901168
 
 
 ## Output:
-[Screenshot 2024-11-21 032748.pdf](https://github.com/user-attachments/files/17839456/Screenshot.2024-11-21.032748.pdf)
+![Screenshot 2024-11-21 032748](https://github.com/user-attachments/assets/5a7c4935-5c3f-4f9e-a7b0-cc673aa561fc)
 
+![Screenshot 2024-11-21 032906](https://github.com/user-attachments/assets/ca1276fb-2638-4a54-b902-48c74a79b9dc)
 
 
 
