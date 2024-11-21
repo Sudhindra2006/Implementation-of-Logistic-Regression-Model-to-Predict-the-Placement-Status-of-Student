@@ -17,13 +17,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ![Screenshot 2024-11-21 032621](https://github.com/user-attachments/assets/24f0a3b4-8733-44a5-a8dc-ceca8df37d3b)
 
-```
+
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Sudhindra.R
 RegisterNumber:24901168 
 */
-```
+
 
 ## Output:
 [Screenshot 2024-11-21 032748.pdf](https://github.com/user-attachments/files/17839456/Screenshot.2024-11-21.032748.pdf)
